@@ -60,11 +60,13 @@ visualization of the results are as follows:
 
 Correlation between payment and number of claims
 
-img
+<img src='googleproject.jpg' width='500' height='500'>
+
 
 Correlation between payment and number of insured policy.
 
-img
+<img src='googleproject.jpg' width='500' height='500'>
+
 
 - Used linear regression model to prove that except bonus and make,
 other all variables are affecting the payment in which km, insured and

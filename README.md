@@ -60,12 +60,12 @@ visualization of the results are as follows:
 
 Correlation between payment and number of claims
 
-<img src='googleproject.jpg' width='500' height='500'>
+<img src='Rplot_claims.jpg' width='500' height='500'>
 
 
 Correlation between payment and number of insured policy.
 
-<img src='googleproject.jpg' width='500' height='500'>
+<img src='Rplot_insured.jpg' width='500' height='500'>
 
 
 - Used linear regression model to prove that except bonus and make,
